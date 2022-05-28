@@ -4,7 +4,7 @@ Esse é um repositório de exemplo do [meu blog](https://igorvenancio.com/blog) 
 um desenvolvimento gradual de teste em JavaScript. Meu objetivo é que você tenha uma ideia
 do que realmente é um teste e como um framework é útil nesse processo.
 
-Para rodar os teste, basta digitar os comandos abaixo no seu terminal:
+Para rodar os testes, basta digitar os comandos abaixo no seu terminal:
 
 1. `node 1`
 2. `node 2`
