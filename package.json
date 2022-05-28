@@ -14,6 +14,6 @@
     "jest": "^28.1.0"
   },
   "jest": {
-    "testMatch": ["**/5.js"]
+    "testMatch": ["**/6.js"]
   }
 }
