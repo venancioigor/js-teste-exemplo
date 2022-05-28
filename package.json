@@ -1,0 +1,19 @@
+{
+  "name": "js-teste-examplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest",
+    "test:all": "node 1.js && node 2.js && node 3.js && node 4.js && jest"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "jest": {
+    "testMatch": ["**/5.js"]
+  }
+}
