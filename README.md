@@ -10,6 +10,7 @@ Para rodar os testes, basta digitar os comandos abaixo no seu terminal:
 2. `node 2`
 3. `node 3`
 4. `node 4`
-5. `npm run test`
+5. `node 5`
+6. `npm run test`
 
 Você também pode rodar todos os testes com o comando `npm run test:all`

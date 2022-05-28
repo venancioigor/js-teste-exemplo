@@ -1,6 +1,5 @@
+//5.js
 const { somar, subtrair } = require('./math')
-const { test, expect } = require('./nossoFramework')
-
 let result, expected
 
 test('somar', () => {
@@ -12,7 +11,7 @@ test('somar', () => {
 
 test('subtrair', () => {
     result = subtrair(2, 2)
-    expected = 1
+    expected = 0
 
     expect(result).toBe(expected)
 })
